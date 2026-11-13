@@ -1,0 +1,8 @@
+Auto Avaliação da Ana Cecilya
+
+Este ano eu aprendi: Um monte de coisa de POO. Classe, objeto, atributo, método, construtor. Os 4 pilares: herança, encapsulamento, abstração e polimorfismo. 
+E ainda associação, agregação, composição, coleções, try/catch e Git com GitHub.
+
+Eu melhorei em: Entender que classe é o molde e objeto é o que sai dele. Peguei bem herança e encapsulamento, e agora já me viro no Git, commit, push e pull sem entrar em pânico de perder tudo.
+
+Minha meta para 2027 é: Treinar mais polimorfismo, abstração e exceção, fazer mais projeto e ficar mais de boa programando sozinha, sem travar tanto.
